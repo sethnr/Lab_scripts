@@ -1,7 +1,7 @@
 # Python coding setup
 
 ### prerequisites:
-* python3 (obvs)
+* python3
 * miniconda
 * jupyter notebook
 
