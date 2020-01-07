@@ -1,16 +1,22 @@
+Python coding setup
+========
+
 prerequisites:
+--------
   python3 (obvs)
   miniconda
   jupyter notebook
 
 essential libs:
+--------
   numpy
   pandas
   scikit
   scikit-learn
   scikit-allel
   
-== miniconda / jupyter ==
+miniconda / jupyter
+--------
 full install instructions available at:  
   https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html  
   https://jupyter.readthedocs.io/en/latest/install.html  
