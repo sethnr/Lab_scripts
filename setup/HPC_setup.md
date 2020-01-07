@@ -1,7 +1,7 @@
 # HPC setup
 
 ## Containers / Docker
-### Docker 
+### Docker (local)
 install instructions for docker on os x are here:
 https://docs.docker.com/docker-for-mac/install/
 
@@ -23,7 +23,7 @@ These can be individually run as follows:
     
 setup for all our dockers should be copied into the 'containers' folder in this git
 
-## Singularity
+### Singularity (on M3/MASSIVE)
 The slurm cluster uses singularity rather than docker, this is preinstalled and can be activated by:
 
     module load singularity
