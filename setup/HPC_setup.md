@@ -35,3 +35,6 @@ snakemake is best installed via conda (see python_setup). Once installed type
 
     conda install snakemake
     snakemake -v
+
+a snakemake tutorial is available here:
+https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
