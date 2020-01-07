@@ -3,17 +3,17 @@ Python coding setup
 
 prerequisites:
 --------
-  python3 (obvs)
-  miniconda
-  jupyter notebook
+* python3 (obvs)
+* miniconda
+* jupyter notebook
 
 essential libs:
 --------
-  numpy
-  pandas
-  scikit
-  scikit-learn
-  scikit-allel
+* numpy
+* pandas
+* scikit
+* scikit-learn
+* scikit-allel
   
 miniconda / jupyter
 --------
