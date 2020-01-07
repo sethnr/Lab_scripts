@@ -11,5 +11,3 @@
     https://hub.docker.com/
 * VIIN - victoria infection & immunity network  
     https://www.viin.org.au/
-* twitter (yes, really)  
-    
