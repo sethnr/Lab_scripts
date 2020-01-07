@@ -7,9 +7,9 @@
 * MASSIVE (australia-wide HPC cluster)  
     http://docs.massive.org.au/M3/requesting-an-account.html
 ## advised:
-* docker
+* docker  
     https://hub.docker.com/
-* VIIN - victoria infection & immunity network
+* VIIN - victoria infection & immunity network  
     https://www.viin.org.au/
-* twitter (yes, really)
+* twitter (yes, really)  
     
