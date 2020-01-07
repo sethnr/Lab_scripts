@@ -1,0 +1,12 @@
+data/
+cache/
+tmp_*/
+*~
+*.bam
+*.bai
+*.delta
+.DS_Store
+*.Rdata
+*.RData
+*.Rhistory
+.ipynb_checkpoints
