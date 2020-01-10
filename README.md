@@ -1,5 +1,6 @@
 # Redmond_lab_scripts
-misc setup data and scripts for the Redmond lab
+misc setup data and scripts for the Redmond lab. If anything is missing from this doc, or would be useful to new starters please update.
+
 #### /Setup/
 contains instructions on setting up the basics of common programming environments for Python / R and the cluster
 #### /Scripts/
