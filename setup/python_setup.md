@@ -19,6 +19,7 @@ full install instructions available at:
 
 ### quickstart:  
 
+linux:
     wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh  
     chmod 755 Miniconda3-latest-Linux-x86_64.sh  
     ./Miniconda3-latest-Linux-x86_64.sh  
@@ -26,6 +27,17 @@ full install instructions available at:
     conda config --prepend pkgs_dirs /home/${USER}/.conda/pkgs  
     conda config --prepend envs_dirs /home/${USER}/.conda/envs  
     conda config --add channels defaults  
+    conda config --add channels bioconda
+    conda config --add channels conda-forge
+
+os x:
+    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+    chmod 755 Miniconda3-latest-MacOSX-x86_64.sh
+    ./Miniconda3-latest-MacOSX-x86_64.sh
+
+    conda config --prepend pkgs_dirs /Users/${USER}/.conda/pkgs
+    conda config --prepend envs_dirs /Users/${USER}/.conda/envs
+    conda config --add channels defaults
     conda config --add channels bioconda
     conda config --add channels conda-forge
 
