@@ -20,6 +20,7 @@ full install instructions available at:
 ### quickstart:  
 
 linux:
+
     wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh  
     chmod 755 Miniconda3-latest-Linux-x86_64.sh  
     ./Miniconda3-latest-Linux-x86_64.sh  
@@ -31,6 +32,7 @@ linux:
     conda config --add channels conda-forge
 
 os x:
+
     wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
     chmod 755 Miniconda3-latest-MacOSX-x86_64.sh
     ./Miniconda3-latest-MacOSX-x86_64.sh
